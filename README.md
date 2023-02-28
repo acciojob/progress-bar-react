@@ -4,4 +4,10 @@
 
 The component should use setState to update the value of the progress bar and display the result when the operation is complete.
 
+The bar width and progress content should change after every second.
+
 ![output](https://storage.googleapis.com/acciojob-open-file-collections/progressbar.gif)
+
+**NOTE:**
+
+- Use id's `barOuter`, `barInner`
